@@ -1,4 +1,3 @@
-### Socat
 Here is a redesigned, professional Markdown version of your README for socat. The structure improves readability, emphasizes key information, and uses clean visual hierarchy for a modern look.[1]
 
 ***
